@@ -1,0 +1,97 @@
+# Site settings
+title: Shanmugam Ekambaram
+twitter_username: shanspaniard
+name: Shanmugam Ekambaram
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+# primarylinks:
+#  - title: Blog
+#    url: http://blogspot.com/
+#  - title: GitHub
+#    url: https://github.com/sushil-91
+#  - title: StackOverflow
+#    url: http://stackoverflow.com/users/username
+#  - title: DZone
+#    url: https://dzone.com/users/username.html
+#  - title: LinkedIn
+#    url: https://www.linkedin.com/username
+
+#Any buzzword skills you want to include
+skills:
+ - Java
+ - Big Data
+ - SQL
+ - REST API
+ - MEAN
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+# blogfeed: http://blogspot.com/
+
+#Work experience is required
+roles:
+ - title: Big Data Analyst
+   start: 2017
+   end: Ongoing
+   employer: Knoinf Technologies
+
+ - title: Software Engineer
+   start: 2016
+   end: 2017
+   employer: CVIAC Consulting Pvt LTD
+   
+ - title: Software Engineer
+   start: 2013
+   end: 2017
+   employer: Viven Technologies
+ 
+
+#Education is required
+education:
+ - level: Bachelor of Engineering (B.E)
+   date : 2013
+   subject: Computer Science
+   college: Meenakshi college of Engineering
+   university:Anna University
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Functional Programming Principles in Scala
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: September 16, 2013
+    - title: Algorithms Design and Analysis, Part 1
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: April 28, 2014
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - ShanmugamEkambaram/shanmugam.github.io
+ - ShanmugamEkambaram/sparkRdd
+
+
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: http://stackoverflow.com/
+   flairimageurl: http://stackoverflow.com/
+
+#Mobile apps section is optional
+apps:
+ - name: 
+   platform: Android
+   url: https://play.google.com/store/apps/details?id=
+   description:
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
+   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
+   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
+   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
+   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
